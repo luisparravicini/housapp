@@ -6,7 +6,7 @@ import sys
 import os
 from datetime import datetime
 import gzip
-#from datetime import timezone, timedelta
+# from datetime import timezone, timedelta
 
 
 def open_file(path):
